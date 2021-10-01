@@ -13,7 +13,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Avatar Framer
+title: Frame Maker
 description: >- # this means to ignore newlines"
   A simple tool to create framed profile pictures for social media in support of a cause.
   Dynamically generate a static site based off of the number of frame images provided.
@@ -21,13 +21,13 @@ description: >- # this means to ignore newlines"
 # Copy
 # Fill in your copy for the title and steps here
 # 
-title-text: "Show you’re on #TeamBartlet by helping get out the vote on social media!"
+title-text: "Add Frame to Your Profile!"
 step-1: "Upload your picture or another square image below."
 step-2: "Use the photo tools to scale, rotate, and move your image over the preview."
 step-3: "Select your frame."
 step-4: "Download your new profile image!"
-step-5: "Post on social media using the hashtag #TeamBartlet."
-footer-text: "&copy; 2020 Campaign Works, Inc. All rights reserved."
+step-5: "Post on social media"
+footer-text: "&copy; 2020 decoders, Inc. All rights reserved."
 
 # Header Nav Link
 #
@@ -58,17 +58,16 @@ footer-links:
 
 # Open Graph and Twitter Cards
 #
-og-title: Create your own avatar generating website
-og-description: Create your own avatar generating website
-og-url: https://andrewquinn.ca/avatar-framer
+og-title: Create your own avatar 
+og-description: Create your own avatar 
+og-url:
 og-image: "og-image.png"
 og-image-width: 1280
 og-image-height: 640
 twitter-card: summary_large_image
-twitter-description: Create your own avatar generating website
+twitter-description: Create your own avatar 
 twitter-image: "og-image.png"
-twitter-handle: "@AndrewQuinn2"
-
+twitter-handle: 
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
