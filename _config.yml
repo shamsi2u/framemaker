@@ -68,9 +68,7 @@ twitter-card: summary_large_image
 twitter-description: Create your own avatar generating website
 twitter-image: "og-image.png"
 twitter-handle: "@AndrewQuinn2"
-
-
-
+baseurl: /framemaker
 
 # Exclude from processing.
 # The following items will not be processed, by default.
